@@ -1,3 +1,5 @@
+This example doesn't work as expected. I created the issue: [https://github.com/dimforge/rapier.js/issues/218](https://github.com/dimforge/rapier.js/issues/218)
+
 Sandboxes:
 
 - PlayCode: https://playcode.io/1228454
